@@ -7,7 +7,7 @@ var a  = 'Andhi';
 let b = 125;
 
 function heightCalculator(a , b){
-    var c = 'hi' ;
+    // var c = 'hi' ;
     console.log(` ${a} your height is ${b}`)
 }
 
