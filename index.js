@@ -1,5 +1,5 @@
 // hoisting
-heightCalculator('Tinu', 125);
+mightCalculator('Tinu', 125);
 
 var a  = 'Andhi';
 // console.log(" :: a :: ", a , window.heightCalculator);
@@ -13,4 +13,5 @@ function heightCalculator(a , b){
 
 // what is window oject ?
 // closure accessible scopes ?
+// why js at the bottom of the body ?
 
